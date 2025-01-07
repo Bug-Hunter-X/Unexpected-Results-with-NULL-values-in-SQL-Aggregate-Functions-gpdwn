@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving `NULL` values and aggregate functions. The `bug.sql` file contains code that calculates the average of scores, ignoring NULL values which leads to an inaccurate average.  `bugSolution.sql` provides solutions to handle these NULL values correctly.
